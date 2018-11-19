@@ -1,0 +1,6 @@
+<FilesMatch "\.(ttf|otf|eot|woff|woff2)$">
+    <IfModule mod_headers.c>
+        Header set Access-Control-Allow-Origin "http://ryouens.com"
+        Header set Access-Control-Allow-Origin "http://localhost:1313"
+    </IfModule>
+</FilesMatch>
