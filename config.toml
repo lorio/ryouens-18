@@ -1,4 +1,4 @@
-baseurl = "http://ryouens.com/"
+baseurl = "https://ryouens.com/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -18,7 +18,7 @@ blog = "blog/:slug/"
 dateform = "2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Rachel Youens is a Brooklyn-based artist."
-copyright = "© 2019 Rachel Youens"
+copyright = "© 2020 Rachel Youens"
 logofile = "img/logo.png"
 faviconfile = "img/logo.png"
 highlightjs = false

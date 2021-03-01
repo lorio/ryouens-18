@@ -17,7 +17,7 @@ All works are oil on linen.
 
 <figure> <img src="/images/tabl5.jpg" alt="still life painting"> <figcaption> <em>Canyon</em> 2014<br>14 x 28 in.</figcaption>
 
-<figure> <img src="/images/tabl6.jpg" alt="still life painting"> <figcaption> <em>Edge</em> 2014<br>6 x 40 in.</figcaption>
+<!-- <figure> <img src="/images/tabl6.jpg" alt="still life painting"> <figcaption> <em>Edge</em> 2014<br>6 x 40 in.</figcaption> -->
 
 <figure> <img src="/images/tabl7.jpg" alt="still life painting"> <figcaption> <em>Thread</em> 2006<br>26 x 54 in.</figcaption>
 

@@ -3,3 +3,5 @@
         Header set Access-Control-Allow-Origin "http://ryouens.com"
     </IfModule>
 </FilesMatch>
+
+Header always set Content-Security-Policy "upgrade-insecure-requests;"

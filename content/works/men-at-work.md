@@ -13,9 +13,9 @@ All works are oil on linen
 
 <figure> <img src="/images/decision.jpg" alt="painting"> <figcaption> <em>Decision</em> 2016<br>10 x 8 in.</figcaption>
 
-<figure> <img src="/images/scaffold.jpg" alt="painting"> <figcaption> <em>Scaffold</em> 2015<br>8 x 10 in.</figcaption>
+<figure> <img src="/images/bqe.jpg" alt="painting"> <figcaption> <em>Under the BQE</em> 2017<br>14 x 11 in.</figcaption>
 
-<figure> <img src="/images/roof.jpg" alt="painting"> <figcaption> <em>Roof</em> 2015<br>8 x 10 in.</figcaption>
+<figure> <img src="/images/fourby.jpg" alt="painting"> <figcaption> <em>4' x 8'</em> 2017<br>12 x 9 in.</figcaption>
 
 <figure> <img src="/images/cones.jpg" alt="painting"> <figcaption> <em>Cones</em> 2014<br>8 x 6 in.</figcaption>
 
@@ -23,9 +23,9 @@ All works are oil on linen
 
 <figure> <img src="/images/trench.jpg" alt="painting"> <figcaption> <em>Trench</em> 2015<br>6 x 6 in.</figcaption>
 
-<figure> <img src="/images/exchange.jpg" alt="painting"> <figcaption> <em>Exchange</em> 2016<br>12 x 9 in.</figcaption>
+<figure> <img src="/images/exchange.jpg" alt="painting"> <figcaption> <em>Exchange</em> 2018<br>12 x 9 in.</figcaption>
 
-<!-- <figure> <img src="/images/lift.jpg" alt="painting"> <figcaption> <em>Lift</em> 2017<br> in.</figcaption> -->
+<figure> <img src="/images/waiting.jpg" alt="painting"> <figcaption> <em>Waiting</em> 2018<br>16 x 13 in.</figcaption>
 
 
 
